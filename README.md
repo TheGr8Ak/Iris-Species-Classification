@@ -2,7 +2,7 @@
 
 This project focuses on building an **Iris Species Classifier**, capable of identifying iris species (Setosa, Versicolor, Virginica) based on flower measurements. The classifier processes numerical input for sepal and petal dimensions and predicts the species using a **Random Forest Classifier**.
 
-![Iris Classifier Results](https://github.com/TheGr8Ak/Iris-Species-Classification/blob/main/Screenshot%202024-12-26%20165015.png)
+![Iris Classifier Results](Frontend.png)
 
 ---
 
